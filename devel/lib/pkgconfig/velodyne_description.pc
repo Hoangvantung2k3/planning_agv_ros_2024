@@ -1,0 +1,8 @@
+prefix=/home/tung/planning_agv_ros_2024/devel
+
+Name: velodyne_description
+Description: Description of velodyne_description
+Version: 1.0.11
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

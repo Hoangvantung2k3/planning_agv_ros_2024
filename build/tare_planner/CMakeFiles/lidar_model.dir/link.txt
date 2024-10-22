@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/tung/planning_agv_ros_2024/devel/lib/liblidar_model.a  CMakeFiles/lidar_model.dir/src/lidar_model/lidar_model.cpp.o
+/usr/bin/ranlib /home/tung/planning_agv_ros_2024/devel/lib/liblidar_model.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/tung/planning_agv_ros_2024/devel/lib/libviewpoint_manager.a  CMakeFiles/viewpoint_manager.dir/src/viewpoint_manager/viewpoint_manager.cpp.o
+/usr/bin/ranlib /home/tung/planning_agv_ros_2024/devel/lib/libviewpoint_manager.a

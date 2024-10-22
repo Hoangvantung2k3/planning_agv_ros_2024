@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/tung/planning_agv_ros_2024/devel/lib/librolling_occupancy_grid.a  CMakeFiles/rolling_occupancy_grid.dir/src/rolling_occupancy_grid/rolling_occupancy_grid.cpp.o
+/usr/bin/ranlib /home/tung/planning_agv_ros_2024/devel/lib/librolling_occupancy_grid.a

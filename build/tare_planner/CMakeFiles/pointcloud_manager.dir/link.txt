@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/tung/planning_agv_ros_2024/devel/lib/libpointcloud_manager.a  CMakeFiles/pointcloud_manager.dir/src/pointcloud_manager/pointcloud_manager.cpp.o
+/usr/bin/ranlib /home/tung/planning_agv_ros_2024/devel/lib/libpointcloud_manager.a
